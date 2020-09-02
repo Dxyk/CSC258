@@ -1,2 +1,3 @@
-# CSC258
-CSC258
+# CSC258 Computer Organization
+
+CSC258 Computer Organization
